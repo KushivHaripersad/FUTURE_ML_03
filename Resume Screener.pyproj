@@ -43,6 +43,7 @@
     <Folder Include="utils\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="data\Resume.csv" />
     <Content Include="README.md" />
     <Content Include="requirements.txt" />

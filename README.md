@@ -112,6 +112,7 @@ Installation:
 
 4. Setup training data
    Ensure the Resume.csv file is in the data/ directory.
+   If there is an error with the csv file, please redownload it from: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 
 5. Train the ML models.
    python train_model.py
