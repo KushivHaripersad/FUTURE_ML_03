@@ -1,0 +1,25 @@
+# IDE/Editor files
+.vs/
+.vscode/
+.idea/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment files
+venv/
+env/
+.env
+.env.local
+
+# Local database (if you don't want to share user data)
+resumes.db
